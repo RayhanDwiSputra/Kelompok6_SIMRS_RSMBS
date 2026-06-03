@@ -11,7 +11,7 @@ Aplikasi ini diharapkan dapat mengintegrasikan dan menyederhanakan berbagai pros
 **Kelas: TIF RP 24C CID**
 
 Berikut adalah daftar anggota tim pengembang:
-1. **M Syayid As Syidiqi**
+1. **M. Syayid As Shidiqi**
 2. **Rayhan Dwi Saputra**
 3. **Thoriq Nur Robbi Shopari**
 
