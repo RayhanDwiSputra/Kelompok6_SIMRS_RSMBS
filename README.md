@@ -1,4 +1,4 @@
-# 🏥 Kelompok6_SIMRS_RSMBS
+# 🏥 Kelompok 6_SIMRS Mobile_Rumah Sakit Muhammadiyah Bandung Selatan
 
 ## 📝 Deskripsi Proyek
 Repositori ini dibuat untuk memenuhi **Tugas Besar mata kuliah Pemrograman Mobile**. Proyek ini berfokus pada pengembangan sistem **SIMRS (Sistem Informasi Manajemen Rumah Sakit)** yang dirancang untuk **Rumah Sakit Muhammadiyah Bandung Selatan (RSMBS)** berbasis mobile.
