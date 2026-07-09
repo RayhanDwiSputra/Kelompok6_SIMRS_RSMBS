@@ -31,7 +31,7 @@ Sistem Informasi Manajemen Rumah Sakit (SIMRS) berbasis Android Native yang dira
 
 Saksikan demo aplikasi, perkenalan anggota, serta penjelasan singkat mengenai alur kode program melalui tautan berikut:
 
-🔗 **[Tonton Video Penjelasan SIMRS RSMBS di Google Drive](ISI_LINK_VIDEO_DI_SINI)** 
+🔗 **[Tonton Video Penjelasan SIMRS RSMBS di Google Drive](https://drive.google.com/drive/folders/1bECRk8HSa1bTxke9FNGHLcbgM7S2Q2gG?usp=sharing)** 
 
 ---
 
